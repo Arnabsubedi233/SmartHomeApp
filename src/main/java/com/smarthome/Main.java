@@ -1,3 +1,5 @@
+package com.smarthome;
+
 import java.io.File;
 
 public class Main {
